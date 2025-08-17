@@ -16,4 +16,4 @@ By completing this project, I will have demonstrated:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/signup-page.git
+   git clone https://github.com/DhairyaMB/signup-page.git
